@@ -163,7 +163,7 @@ msgstr "autor aplicat en importar "
 
 #: ../build/src/preferences_gen.h:1497
 msgid "publisher to be applied when importing"
-msgstr "Publicador aplicat en importar"
+msgstr "publicador aplicat en importar"
 
 #: ../build/src/preferences_gen.h:1517
 msgid "rights to be applied when importing"
@@ -258,7 +258,7 @@ msgid ""
 "sets level for smoothing of brush strokes. stronger smoothing leads to less "
 "nodes and easier editing but with lower control of accuracy."
 msgstr ""
-"ajusta el nivell de suavitzat dels traços de pinzell. un suavitzat més alt "
+"ajusta el nivell de suavitzat dels traços de pinzell. Un suavitzat més alt "
 "produeix menys nodes i facilita l'edició però amb un menor grau de precisió"
 
 #: ../build/src/preferences_gen.h:1701
@@ -830,13 +830,13 @@ msgstr "etiquetat"
 #, c-format
 msgid "%d image of %d in current collection is selected"
 msgid_plural "%d images of %d in current collection are selected"
-msgstr[0] "sel·lecionada %d imatge de %d de la col·lecció actual"
-msgstr[1] "sel·lecionades %d imatges de %d de la col·lecció actual"
+msgstr[0] "selecionada %d imatge de %d de la col·lecció actual"
+msgstr[1] "selecionades %d imatges de %d de la col·lecció actual"
 
 #: ../src/common/cups_print.c:273
 #, c-format
 msgid "file `%s' to print not found for image %d on `%s'"
-msgstr "no es troba el fitxer `%s' per imprimir per a la imatge %d a `%s'"
+msgstr "no s'ha trobat el fitxer `%s' per imprimir per a la imatge %d a `%s'"
 
 #: ../src/common/cups_print.c:333
 #, c-format
@@ -846,12 +846,12 @@ msgstr "s'ha produït un error en en imprimir la imatge %d a `%s'"
 #: ../src/common/cups_print.c:335
 #, c-format
 msgid "printing image %d on `%s'"
-msgstr "imprimint la imatge %d a `%s'"
+msgstr "s'està imprimint la imatge %d a `%s'"
 
 #: ../src/common/darktable.c:317
 #, c-format
 msgid "found strange path `%s'"
-msgstr "trobada una ruta estranya `%s' "
+msgstr "s'ha trobat una ruta estranya `%s' "
 
 #: ../src/common/darktable.c:334
 #, c-format
@@ -861,7 +861,7 @@ msgstr "s'ha produït un error en carregar el directori `%s'"
 #: ../src/common/darktable.c:356
 #, c-format
 msgid "file `%s' has unknown format!"
-msgstr "el fitxer `%s' té un format desconegut!"
+msgstr "el fitxer `%s' té un format desconegut"
 
 #: ../src/common/darktable.c:369 ../src/libs/import.c:700
 #, c-format
@@ -7817,7 +7817,7 @@ msgstr "carpeta"
 
 #: ../src/libs/import.c:828
 msgid "select a folder to import as film roll"
-msgstr "sel·leccioneu una carpeta a importar com a rodet"
+msgstr "seleccioneu una carpeta a importar com a rodet"
 
 #: ../src/libs/lib.c:214
 #, c-format
